@@ -1,0 +1,9 @@
+{
+  "rows": 6,
+  "columns": 2,
+  "height": 950,
+  "width": 250,
+  "speed": 1000,
+  "directory": "~~some path~~",
+  "fullscreen": false
+}
